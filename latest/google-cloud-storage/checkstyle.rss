@@ -620,6 +620,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#google-cloud-testing.target.maven-archiver.pom.properties">google-cloud-testing/target/maven-archiver/pom.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.spi.StorageRpcFactory.java">com/google/cloud/storage/spi/StorageRpcFactory.java</a>
                 </td>
                 <td>
@@ -1033,20 +1047,6 @@ under the License.
                 </td>
                 <td>
                   6
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#target.nexus-staging.staging.3187e4f20d328b.properties">target/nexus-staging/staging/3187e4f20d328b.properties</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
                 </td>
                 <td>
                   0

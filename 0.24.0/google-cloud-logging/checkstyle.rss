@@ -886,6 +886,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#google-cloud-testing.target.maven-archiver.pom.properties">google-cloud-testing/target/maven-archiver/pom.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.PagedResponseWrappers.java">com/google/cloud/logging/v2/PagedResponseWrappers.java</a>
                 </td>
                 <td>
@@ -1447,20 +1461,6 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#google-cloud-util.google-cloud-compat-checker.target.maven-archiver.pom.properties">google-cloud-util/google-cloud-compat-checker/target/maven-archiver/pom.properties</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#target.nexus-staging.staging.3187e4f20d328b.properties">target/nexus-staging/staging/3187e4f20d328b.properties</a>
                 </td>
                 <td>
                   0
