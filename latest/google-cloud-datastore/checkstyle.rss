@@ -25,7 +25,7 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2017 Google</copyright>
     <item>
-      <title>File: 154,
+      <title>File: 167,
              Errors: 0,
              Warnings: 56,
              Infos: 0
@@ -340,20 +340,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.DatastoreHelper.java">com/google/cloud/datastore/DatastoreHelper.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.Blob.java">com/google/cloud/datastore/Blob.java</a>
                 </td>
                 <td>
@@ -361,6 +347,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.DatastoreHelper.java">com/google/cloud/datastore/DatastoreHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -536,6 +536,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-bigtable.target.maven-archiver.pom.properties">google-cloud-bigtable/target/maven-archiver/pom.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-monitoring.target.classes.com.google.cloud.monitoring.project.properties">google-cloud-monitoring/target/classes/com/google/cloud/monitoring/project.properties</a>
                 </td>
                 <td>
@@ -565,6 +579,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.DatastoreReaderWriter.java">com/google/cloud/datastore/DatastoreReaderWriter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-dialogflow.target.classes.com.google.cloud.dialogflow.project.properties">google-cloud-dialogflow/target/classes/com/google/cloud/dialogflow/project.properties</a>
                 </td>
                 <td>
                   0
@@ -691,6 +719,34 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-resourcemanager.target.classes.project.properties">google-cloud-resourcemanager/target/classes/project.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-dialogflow.target.classes.project.properties">google-cloud-dialogflow/target/classes/project.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-kms.target.classes.project.properties">google-cloud-kms/target/classes/project.properties</a>
                 </td>
                 <td>
                   0
@@ -886,6 +942,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-testing.target.maven-archiver.pom.properties">google-cloud-testing/target/maven-archiver/pom.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.Datastore.java">com/google/cloud/datastore/Datastore.java</a>
                 </td>
                 <td>
@@ -942,20 +1012,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-core.target.generated-classes.cobertura.project.properties">google-cloud-core/target/generated-classes/cobertura/project.properties</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-translate.target.maven-archiver.pom.properties">google-cloud-translate/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
@@ -970,7 +1026,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.Transaction.java">com/google/cloud/datastore/Transaction.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-core.target.generated-classes.cobertura.project.properties">google-cloud-core/target/generated-classes/cobertura/project.properties</a>
                 </td>
                 <td>
                   0
@@ -998,7 +1054,35 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.Transaction.java">com/google/cloud/datastore/Transaction.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-storage.target.maven-archiver.pom.properties">google-cloud-storage/target/maven-archiver/pom.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-bigtable.target.classes.com.google.cloud.bigtable.project.properties">google-cloud-bigtable/target/classes/com/google/cloud/bigtable/project.properties</a>
                 </td>
                 <td>
                   0
@@ -1054,7 +1138,35 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-bigtable.target.generated-classes.cobertura.com.google.cloud.bigtable.project.properties">google-cloud-bigtable/target/generated-classes/cobertura/com/google/cloud/bigtable/project.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-storage.target.generated-classes.cobertura.project.properties">google-cloud-storage/target/generated-classes/cobertura/project.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-bigtable.target.classes.project.properties">google-cloud-bigtable/target/classes/project.properties</a>
                 </td>
                 <td>
                   0
@@ -1222,6 +1334,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.package-info.java">com/google/cloud/datastore/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.LongValue.java">com/google/cloud/datastore/LongValue.java</a>
                 </td>
                 <td>
@@ -1236,7 +1362,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.package-info.java">com/google/cloud/datastore/package-info.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-util.target.maven-archiver.pom.properties">google-cloud-util/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
                   0
@@ -1334,6 +1460,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-core-grpc.target.generated-classes.cobertura.cobertura.properties">google-cloud-core-grpc/target/generated-classes/cobertura/cobertura.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-bigtable.target.generated-classes.cobertura.cobertura.properties">google-cloud-bigtable/target/generated-classes/cobertura/cobertura.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-spanner.target.maven-archiver.pom.properties">google-cloud-spanner/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
@@ -1376,7 +1530,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.Batch.java">com/google/cloud/datastore/Batch.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.TimestampValue.java">com/google/cloud/datastore/TimestampValue.java</a>
                 </td>
                 <td>
                   0
@@ -1390,7 +1544,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.TimestampValue.java">com/google/cloud/datastore/TimestampValue.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.Batch.java">com/google/cloud/datastore/Batch.java</a>
                 </td>
                 <td>
                   0
@@ -1460,7 +1614,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-firestore.target.classes.project.properties">google-cloud-firestore/target/classes/project.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-core-grpc.target.maven-archiver.pom.properties">google-cloud-core-grpc/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
                   0
@@ -1474,7 +1628,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-core-grpc.target.maven-archiver.pom.properties">google-cloud-core-grpc/target/maven-archiver/pom.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-firestore.target.classes.project.properties">google-cloud-firestore/target/classes/project.properties</a>
                 </td>
                 <td>
                   0
@@ -1517,6 +1671,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.FullEntity.java">com/google/cloud/datastore/FullEntity.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-dialogflow.target.maven-archiver.pom.properties">google-cloud-dialogflow/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
                   0
@@ -1614,7 +1782,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.BatchImpl.java">com/google/cloud/datastore/BatchImpl.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.EntityValue.java">com/google/cloud/datastore/EntityValue.java</a>
                 </td>
                 <td>
                   0
@@ -1642,7 +1810,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.EntityValue.java">com/google/cloud/datastore/EntityValue.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.BatchImpl.java">com/google/cloud/datastore/BatchImpl.java</a>
                 </td>
                 <td>
                   0
@@ -1726,7 +1894,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#target.maven-archiver.pom.properties">target/maven-archiver/pom.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-testing.google-cloud-appengineflexjava.target.maven-archiver.pom.properties">google-cloud-testing/google-cloud-appengineflexjava/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
                   0
@@ -1740,7 +1908,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-testing.google-cloud-appengineflexjava.target.maven-archiver.pom.properties">google-cloud-testing/google-cloud-appengineflexjava/target/maven-archiver/pom.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#target.maven-archiver.pom.properties">target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
                   0
@@ -1769,6 +1937,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.Cursor.java">com/google/cloud/datastore/Cursor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-bigtable.target.generated-classes.cobertura.project.properties">google-cloud-bigtable/target/generated-classes/cobertura/project.properties</a>
                 </td>
                 <td>
                   0
@@ -1894,20 +2076,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.ProjectionEntity.java">com/google/cloud/datastore/ProjectionEntity.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.DatastoreOptions.java">com/google/cloud/datastore/DatastoreOptions.java</a>
                 </td>
                 <td>
@@ -1915,6 +2083,20 @@ under the License.
                 </td>
                 <td>
                   8
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.ProjectionEntity.java">com/google/cloud/datastore/ProjectionEntity.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -2048,7 +2230,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.IncompleteKey.java">com/google/cloud/datastore/IncompleteKey.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.StructuredQuery.java">com/google/cloud/datastore/StructuredQuery.java</a>
                 </td>
                 <td>
                   0
@@ -2062,7 +2244,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.StructuredQuery.java">com/google/cloud/datastore/StructuredQuery.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#com.google.cloud.datastore.IncompleteKey.java">com/google/cloud/datastore/IncompleteKey.java</a>
                 </td>
                 <td>
                   0
@@ -2132,7 +2314,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-contrib.target.maven-archiver.pom.properties">google-cloud-contrib/target/maven-archiver/pom.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-testing.google-cloud-managedtest.target.maven-archiver.pom.properties">google-cloud-testing/google-cloud-managedtest/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
                   0
@@ -2146,7 +2328,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-testing.google-cloud-managedtest.target.maven-archiver.pom.properties">google-cloud-testing/google-cloud-managedtest/target/maven-archiver/pom.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-contrib.target.maven-archiver.pom.properties">google-cloud-contrib/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
                   0
@@ -2174,7 +2356,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-storage.target.classes.com.google.cloud.storage.project.properties">google-cloud-storage/target/classes/com/google/cloud/storage/project.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-trace.target.classes.com.google.cloud.trace.project.properties">google-cloud-trace/target/classes/com/google/cloud/trace/project.properties</a>
                 </td>
                 <td>
                   0
@@ -2188,7 +2370,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-trace.target.classes.com.google.cloud.trace.project.properties">google-cloud-trace/target/classes/com/google/cloud/trace/project.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-datastore/checkstyle.html#google-cloud-storage.target.classes.com.google.cloud.storage.project.properties">google-cloud-storage/target/classes/com/google/cloud/storage/project.properties</a>
                 </td>
                 <td>
                   0

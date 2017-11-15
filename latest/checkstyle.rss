@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2017 Google</copyright>
     <item>
-      <title>File: 716,
+      <title>File: 767,
              Errors: 0,
-             Warnings: 2461,
+             Warnings: 3121,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html</link>
@@ -52,7 +52,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  6
                 </td>
                 <td>
                   0
@@ -136,7 +136,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  9
                 </td>
                 <td>
                   0
@@ -206,7 +206,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  7
                 </td>
                 <td>
                   0
@@ -290,7 +290,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  12
+                  13
                 </td>
                 <td>
                   0
@@ -382,6 +382,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.v2.BigtableSettings.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/v2/BigtableSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-storage.src.main.java.com.google.cloud.storage.PolicyHelper.java">google-cloud-storage/src/main/java/com/google/cloud/storage/PolicyHelper.java</a>
                 </td>
                 <td>
@@ -444,7 +458,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  55
+                  57
                 </td>
                 <td>
                   0
@@ -486,7 +500,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  7
                 </td>
                 <td>
                   0
@@ -528,7 +542,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  4
                 </td>
                 <td>
                   0
@@ -571,6 +585,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.GrpcSessionEntityTypesStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/GrpcSessionEntityTypesStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
                 </td>
                 <td>
                   0
@@ -752,7 +780,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  3
                 </td>
                 <td>
                   0
@@ -809,6 +837,34 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.target.classes.project.properties">google-cloud-dialogflow/target/classes/project.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-kms.target.classes.project.properties">google-cloud-kms/target/classes/project.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -1054,13 +1110,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.ForwardingStructReader.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/ForwardingStructReader.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.GrpcSessionsStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/GrpcSessionsStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  2
+                  3
                 </td>
                 <td>
                   0
@@ -1068,13 +1124,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.KeySet.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/KeySet.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.ForwardingStructReader.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/ForwardingStructReader.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  4
+                  2
                 </td>
                 <td>
                   0
@@ -1096,6 +1152,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.KeySet.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/KeySet.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-datastore.src.main.java.com.google.cloud.datastore.testing.RemoteDatastoreHelper.java">google-cloud-datastore/src/main/java/com/google/cloud/datastore/testing/RemoteDatastoreHelper.java</a>
                 </td>
                 <td>
@@ -1103,6 +1173,20 @@ under the License.
                 </td>
                 <td>
                   11
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-testing.target.maven-archiver.pom.properties">google-cloud-testing/target/maven-archiver/pom.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -1256,7 +1340,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  19
+                  29
                 </td>
                 <td>
                   0
@@ -1284,7 +1368,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
+                  9
                 </td>
                 <td>
                   0
@@ -1320,6 +1404,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.target.classes.project.properties">google-cloud-bigtable/target/classes/project.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.package-info.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/package-info.java</a>
                 </td>
                 <td>
@@ -1327,6 +1425,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.stub.BigtableTableAdminStub.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/stub/BigtableTableAdminStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -1494,7 +1606,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.stub.GrpcBigtableTableAdminStub.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/stub/GrpcBigtableTableAdminStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
                 </td>
                 <td>
                   0
@@ -1522,7 +1648,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  13
+                  36
                 </td>
                 <td>
                   0
@@ -1620,7 +1746,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  55
+                  59
                 </td>
                 <td>
                   0
@@ -1746,7 +1872,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  20
+                  21
                 </td>
                 <td>
                   0
@@ -1830,7 +1956,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  6
+                  8
                 </td>
                 <td>
                   0
@@ -1872,7 +1998,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  3
                 </td>
                 <td>
                   0
@@ -1886,7 +2012,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  3
                 </td>
                 <td>
                   0
@@ -1936,6 +2062,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.target.maven-archiver.pom.properties">google-cloud-dialogflow/target/maven-archiver/pom.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.AgentsClient.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/AgentsClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.spi.v1.SpannerErrorInterceptor.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/spi/v1/SpannerErrorInterceptor.java</a>
                 </td>
                 <td>
@@ -1943,6 +2097,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.IntentsSettings.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/IntentsSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
                 </td>
                 <td>
                   0
@@ -2012,7 +2180,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  16
+                  17
                 </td>
                 <td>
                   0
@@ -2062,20 +2230,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-examples.src.main.java.com.google.cloud.examples.storage.StorageExample.java">google-cloud-examples/src/main/java/com/google/cloud/examples/storage/StorageExample.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-examples.src.main.java.com.google.cloud.examples.logging.snippets.AddLoggingHandler.java">google-cloud-examples/src/main/java/com/google/cloud/examples/logging/snippets/AddLoggingHandler.java</a>
                 </td>
                 <td>
@@ -2083,6 +2237,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-examples.src.main.java.com.google.cloud.examples.storage.StorageExample.java">google-cloud-examples/src/main/java/com/google/cloud/examples/storage/StorageExample.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -2118,13 +2286,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.GrpcAgentsStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/GrpcAgentsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-speech.src.main.java.com.google.cloud.speech.v1.SpeechSettings.java">google-cloud-speech/src/main/java/com/google/cloud/speech/v1/SpeechSettings.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  5
+                  7
                 </td>
                 <td>
                   0
@@ -2138,7 +2320,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  15
+                  13
                 </td>
                 <td>
                   0
@@ -2258,6 +2440,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.GrpcIntentsStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/GrpcIntentsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.v2.stub.GrpcBigtableStub.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/v2/stub/GrpcBigtableStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-speech.target.classes.com.google.cloud.speech.project.properties">google-cloud-speech/target/classes/com/google/cloud/speech/project.properties</a>
                 </td>
                 <td>
@@ -2306,7 +2516,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  3
                 </td>
                 <td>
                   0
@@ -2538,6 +2748,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.BigtableTableAdminSettings.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/BigtableTableAdminSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  33
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-compute.src.main.java.com.google.cloud.compute.LicenseId.java">google-cloud-compute/src/main/java/com/google/cloud/compute/LicenseId.java</a>
                 </td>
                 <td>
@@ -2600,7 +2824,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  3
                 </td>
                 <td>
                   0
@@ -2818,20 +3042,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-storage.src.main.java.com.google.cloud.storage.spi.v1.StorageRpc.java">google-cloud-storage/src/main/java/com/google/cloud/storage/spi/v1/StorageRpc.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-storage.src.main.java.com.google.cloud.storage.Option.java">google-cloud-storage/src/main/java/com/google/cloud/storage/Option.java</a>
                 </td>
                 <td>
@@ -2846,13 +3056,41 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-storage.src.main.java.com.google.cloud.storage.spi.v1.StorageRpc.java">google-cloud-storage/src/main/java/com/google/cloud/storage/spi/v1/StorageRpc.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.package-info.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dlp.src.main.java.com.google.cloud.dlp.v2beta1.DlpServiceSettings.java">google-cloud-dlp/src/main/java/com/google/cloud/dlp/v2beta1/DlpServiceSettings.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  5
+                  7
                 </td>
                 <td>
                   0
@@ -2902,6 +3140,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.package-info.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-pubsub.src.main.java.com.google.cloud.pubsub.v1.SubscriberStats.java">google-cloud-pubsub/src/main/java/com/google/cloud/pubsub/v1/SubscriberStats.java</a>
                 </td>
                 <td>
@@ -2922,7 +3174,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  9
+                  16
                 </td>
                 <td>
                   0
@@ -3104,7 +3356,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  10
                 </td>
                 <td>
                   0
@@ -3141,6 +3393,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-pubsub.src.main.java.com.google.cloud.pubsub.v1.AtomicRoundRobin.java">google-cloud-pubsub/src/main/java/com/google/cloud/pubsub/v1/AtomicRoundRobin.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.SessionsStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/SessionsStub.java</a>
                 </td>
                 <td>
                   0
@@ -3412,7 +3678,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  9
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.SessionEntityTypesClient.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/SessionEntityTypesClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  20
                 </td>
                 <td>
                   0
@@ -3482,7 +3762,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  30
+                  32
                 </td>
                 <td>
                   0
@@ -3538,7 +3818,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  6
+                  8
                 </td>
                 <td>
                   0
@@ -3608,7 +3888,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  4
                 </td>
                 <td>
                   0
@@ -3720,7 +4000,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  7
                 </td>
                 <td>
                   0
@@ -3776,7 +4056,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  3
+                  4
                 </td>
                 <td>
                   0
@@ -3930,7 +4210,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  30
+                  57
                 </td>
                 <td>
                   0
@@ -4008,20 +4288,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.SpannerFactory.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/SpannerFactory.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.InstanceAdminClient.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/InstanceAdminClient.java</a>
                 </td>
                 <td>
@@ -4029,6 +4295,20 @@ under the License.
                 </td>
                 <td>
                   4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.SpannerFactory.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/SpannerFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -4112,7 +4392,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  10
+                  11
                 </td>
                 <td>
                   0
@@ -4196,7 +4476,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  8
                 </td>
                 <td>
                   0
@@ -4246,20 +4526,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.Logging.java">google-cloud-logging/src/main/java/com/google/cloud/logging/Logging.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  16
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.Synchronicity.java">google-cloud-logging/src/main/java/com/google/cloud/logging/Synchronicity.java</a>
                 </td>
                 <td>
@@ -4267,6 +4533,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.Logging.java">google-cloud-logging/src/main/java/com/google/cloud/logging/Logging.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  16
                 </td>
                 <td>
                   0
@@ -4442,6 +4722,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.SessionsSettings.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/SessionsSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.LoggingEnhancer.java">google-cloud-logging/src/main/java/com/google/cloud/logging/LoggingEnhancer.java</a>
                 </td>
                 <td>
@@ -4490,7 +4784,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  7
                 </td>
                 <td>
                   0
@@ -4519,6 +4813,20 @@ under the License.
                 </td>
                 <td>
                   13
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.v2.BigtableClient.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/v2/BigtableClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
                 </td>
                 <td>
                   0
@@ -4588,7 +4896,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  3
+                  2
                 </td>
                 <td>
                   0
@@ -4617,6 +4925,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.v2.stub.BigtableStub.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/v2/stub/BigtableStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -4980,7 +5302,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
+                  7
                 </td>
                 <td>
                   0
@@ -5022,7 +5344,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  55
+                  57
                 </td>
                 <td>
                   0
@@ -5058,7 +5380,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-firestore.src.main.java.com.google.cloud.firestore.QuerySnapshot.java">google-cloud-firestore/src/main/java/com/google/cloud/firestore/QuerySnapshot.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.PagedResponseWrappers.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/PagedResponseWrappers.java</a>
                 </td>
                 <td>
                   0
@@ -5078,7 +5400,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  12
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-firestore.src.main.java.com.google.cloud.firestore.QuerySnapshot.java">google-cloud-firestore/src/main/java/com/google/cloud/firestore/QuerySnapshot.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
                 </td>
                 <td>
                   0
@@ -5142,13 +5478,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-util.google-cloud-compat-checker.src.main.java.com.google.cloud.compatchecker.GoogleCloudCompatChecker.java">google-cloud-util/google-cloud-compat-checker/src/main/java/com/google/cloud/compatchecker/GoogleCloudCompatChecker.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.v2.MetricsClient.java">google-cloud-logging/src/main/java/com/google/cloud/logging/v2/MetricsClient.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  22
+                  13
                 </td>
                 <td>
                   0
@@ -5380,20 +5730,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-compute.src.main.java.com.google.cloud.compute.GlobalAddressId.java">google-cloud-compute/src/main/java/com/google/cloud/compute/GlobalAddressId.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-compute.src.main.java.com.google.cloud.compute.ComputeException.java">google-cloud-compute/src/main/java/com/google/cloud/compute/ComputeException.java</a>
                 </td>
                 <td>
@@ -5401,6 +5737,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-compute.src.main.java.com.google.cloud.compute.GlobalAddressId.java">google-cloud-compute/src/main/java/com/google/cloud/compute/GlobalAddressId.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -5568,7 +5918,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  4
                 </td>
                 <td>
                   0
@@ -5583,6 +5933,34 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.target.maven-archiver.pom.properties">google-cloud-bigtable/target/maven-archiver/pom.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.BigtableTableAdminClient.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/BigtableTableAdminClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
                 </td>
                 <td>
                   0
@@ -5646,6 +6024,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.target.classes.com.google.cloud.dialogflow.project.properties">google-cloud-dialogflow/target/classes/com/google/cloud/dialogflow/project.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-contrib.google-cloud-logging-logback.target.maven-archiver.pom.properties">google-cloud-contrib/google-cloud-logging-logback/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
@@ -5680,7 +6072,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  55
+                  57
                 </td>
                 <td>
                   0
@@ -5758,6 +6150,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.IntentsStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/IntentsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.SessionsClient.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/SessionsClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-examples.src.main.java.com.google.cloud.examples.pubsub.snippets.CreateTopicAndPublishMessages.java">google-cloud-examples/src/main/java/com/google/cloud/examples/pubsub/snippets/CreateTopicAndPublishMessages.java</a>
                 </td>
                 <td>
@@ -5765,6 +6185,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.ContextsSettings.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/ContextsSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
                 </td>
                 <td>
                   0
@@ -5848,7 +6282,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  5
                 </td>
                 <td>
                   0
@@ -5862,7 +6296,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  18
                 </td>
                 <td>
                   0
@@ -5960,7 +6394,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  55
+                  57
                 </td>
                 <td>
                   0
@@ -6044,7 +6478,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  10
+                  11
                 </td>
                 <td>
                   0
@@ -6109,6 +6543,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.Spanner.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/Spanner.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.v2.package-info.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/v2/package-info.java</a>
                 </td>
                 <td>
                   0
@@ -6332,6 +6780,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.IntentsClient.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/IntentsClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-compute.src.main.java.com.google.cloud.compute.Region.java">google-cloud-compute/src/main/java/com/google/cloud/compute/Region.java</a>
                 </td>
                 <td>
@@ -6444,6 +6906,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-util.target.maven-archiver.pom.properties">google-cloud-util/target/maven-archiver/pom.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-examples.src.main.java.com.google.cloud.examples.datastore.snippets.DatastoreSnippets.java">google-cloud-examples/src/main/java/com/google/cloud/examples/datastore/snippets/DatastoreSnippets.java</a>
                 </td>
                 <td>
@@ -6506,7 +6982,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  6
                 </td>
                 <td>
                   0
@@ -6710,6 +7186,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.BigtableInstanceAdminSettings.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/BigtableInstanceAdminSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-compute.src.main.java.com.google.cloud.compute.ForwardingRuleId.java">google-cloud-compute/src/main/java/com/google/cloud/compute/ForwardingRuleId.java</a>
                 </td>
                 <td>
@@ -6717,6 +7207,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.GrpcContextsStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/GrpcContextsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
                 </td>
                 <td>
                   0
@@ -6786,7 +7290,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  6
+                  8
                 </td>
                 <td>
                   0
@@ -6814,7 +7318,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  1
+                  2
                 </td>
                 <td>
                   0
@@ -6884,7 +7388,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  6
                 </td>
                 <td>
                   0
@@ -7018,20 +7522,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.Mutation.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/Mutation.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  9
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.DatabaseAdminClient.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/DatabaseAdminClient.java</a>
                 </td>
                 <td>
@@ -7046,13 +7536,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-spanner.src.main.java.com.google.cloud.spanner.Mutation.java">google-cloud-spanner/src/main/java/com/google/cloud/spanner/Mutation.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-firestore.src.main.java.com.google.cloud.firestore.v1beta1.stub.GrpcFirestoreStub.java">google-cloud-firestore/src/main/java/com/google/cloud/firestore/v1beta1/stub/GrpcFirestoreStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  2
+                  14
                 </td>
                 <td>
                   0
@@ -7067,6 +7571,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.EntityTypesSettings.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/EntityTypesSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
                 </td>
                 <td>
                   0
@@ -7402,7 +7920,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  25
+                  26
                 </td>
                 <td>
                   0
@@ -7522,7 +8040,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-storage.target.classes.com.google.cloud.storage.project.properties">google-cloud-storage/target/classes/com/google/cloud/storage/project.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-trace.target.classes.com.google.cloud.trace.project.properties">google-cloud-trace/target/classes/com/google/cloud/trace/project.properties</a>
                 </td>
                 <td>
                   0
@@ -7536,7 +8054,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-trace.target.classes.com.google.cloud.trace.project.properties">google-cloud-trace/target/classes/com/google/cloud/trace/project.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-storage.target.classes.com.google.cloud.storage.project.properties">google-cloud-storage/target/classes/com/google/cloud/storage/project.properties</a>
                 </td>
                 <td>
                   0
@@ -7606,20 +8124,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.Operation.java">google-cloud-logging/src/main/java/com/google/cloud/logging/Operation.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.v2.stub.MetricsServiceV2Stub.java">google-cloud-logging/src/main/java/com/google/cloud/logging/v2/stub/MetricsServiceV2Stub.java</a>
                 </td>
                 <td>
@@ -7627,6 +8131,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.Operation.java">google-cloud-logging/src/main/java/com/google/cloud/logging/Operation.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -7920,7 +8438,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
+                  9
                 </td>
                 <td>
                   0
@@ -7948,7 +8466,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  2
+                  3
                 </td>
                 <td>
                   0
@@ -7963,6 +8481,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.BigtableInstanceAdminClient.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/BigtableInstanceAdminClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  53
                 </td>
                 <td>
                   0
@@ -8186,7 +8718,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  25
+                  26
                 </td>
                 <td>
                   0
@@ -8446,6 +8978,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.PagedResponseWrappers.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/PagedResponseWrappers.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-compute.src.main.java.com.google.cloud.compute.DeprecationStatus.java">google-cloud-compute/src/main/java/com/google/cloud/compute/DeprecationStatus.java</a>
                 </td>
                 <td>
@@ -8522,7 +9068,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  30
+                  32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.target.classes.com.google.cloud.bigtable.project.properties">google-cloud-bigtable/target/classes/com/google/cloud/bigtable/project.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -8712,6 +9272,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.EntityTypesStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/EntityTypesStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-storage.src.main.java.com.google.cloud.storage.spi.StorageRpcFactory.java">google-cloud-storage/src/main/java/com/google/cloud/storage/spi/StorageRpcFactory.java</a>
                 </td>
                 <td>
@@ -8816,7 +9390,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  80
+                  82
                 </td>
                 <td>
                   0
@@ -8894,6 +9468,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.stub.GrpcBigtableInstanceAdminStub.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/stub/GrpcBigtableInstanceAdminStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dlp.src.main.java.com.google.cloud.dlp.v2beta1.stub.DlpServiceStub.java">google-cloud-dlp/src/main/java/com/google/cloud/dlp/v2beta1/stub/DlpServiceStub.java</a>
                 </td>
                 <td>
@@ -8922,6 +9510,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.AgentsSettings.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/AgentsSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-examples.src.main.java.com.google.cloud.examples.spanner.snippets.DatabaseSelect.java">google-cloud-examples/src/main/java/com/google/cloud/examples/spanner/snippets/DatabaseSelect.java</a>
                 </td>
                 <td>
@@ -8942,7 +9544,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  6
                 </td>
                 <td>
                   0
@@ -8978,13 +9580,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.v2.stub.GrpcConfigServiceV2Stub.java">google-cloud-logging/src/main/java/com/google/cloud/logging/v2/stub/GrpcConfigServiceV2Stub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.ContextsStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/ContextsStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-logging.src.main.java.com.google.cloud.logging.v2.stub.GrpcConfigServiceV2Stub.java">google-cloud-logging/src/main/java/com/google/cloud/logging/v2/stub/GrpcConfigServiceV2Stub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
                 </td>
                 <td>
                   0
@@ -9012,7 +9628,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  107
+                  110
                 </td>
                 <td>
                   0
@@ -9048,13 +9664,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.SessionEntityTypesStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/SessionEntityTypesStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-video-intelligence.src.main.java.com.google.cloud.videointelligence.v1beta2.VideoIntelligenceServiceClient.java">google-cloud-video-intelligence/src/main/java/com/google/cloud/videointelligence/v1beta2/VideoIntelligenceServiceClient.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  15
+                  13
                 </td>
                 <td>
                   0
@@ -9166,7 +9796,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  7
                 </td>
                 <td>
                   0
@@ -9202,20 +9832,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigquery.src.main.java.com.google.cloud.bigquery.testing.package-info.java">google-cloud-bigquery/src/main/java/com/google/cloud/bigquery/testing/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigquery.src.main.java.com.google.cloud.bigquery.BigQuery.java">google-cloud-bigquery/src/main/java/com/google/cloud/bigquery/BigQuery.java</a>
                 </td>
                 <td>
@@ -9223,6 +9839,20 @@ under the License.
                 </td>
                 <td>
                   7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigquery.src.main.java.com.google.cloud.bigquery.testing.package-info.java">google-cloud-bigquery/src/main/java/com/google/cloud/bigquery/testing/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -9426,6 +10056,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.GrpcEntityTypesStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/GrpcEntityTypesStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-firestore.src.main.java.com.google.cloud.firestore.FieldValue.java">google-cloud-firestore/src/main/java/com/google/cloud/firestore/FieldValue.java</a>
                 </td>
                 <td>
@@ -9510,13 +10154,41 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-monitoring.src.main.java.com.google.cloud.monitoring.v3.stub.GrpcGroupServiceStub.java">google-cloud-monitoring/src/main/java/com/google/cloud/monitoring/v3/stub/GrpcGroupServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-bigtable.src.main.java.com.google.cloud.bigtable.admin.v2.stub.BigtableInstanceAdminStub.java">google-cloud-bigtable/src/main/java/com/google/cloud/bigtable/admin/v2/stub/BigtableInstanceAdminStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-monitoring.src.main.java.com.google.cloud.monitoring.v3.stub.GrpcGroupServiceStub.java">google-cloud-monitoring/src/main/java/com/google/cloud/monitoring/v3/stub/GrpcGroupServiceStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.SessionEntityTypesSettings.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/SessionEntityTypesSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  33
                 </td>
                 <td>
                   0
@@ -9622,6 +10294,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.EntityTypesClient.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/EntityTypesClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  25
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-firestore.src.main.java.com.google.cloud.firestore.WriteBatch.java">google-cloud-firestore/src/main/java/com/google/cloud/firestore/WriteBatch.java</a>
                 </td>
                 <td>
@@ -9664,7 +10350,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#target.maven-archiver.pom.properties">target/maven-archiver/pom.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-testing.google-cloud-appengineflexjava.target.maven-archiver.pom.properties">google-cloud-testing/google-cloud-appengineflexjava/target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
                   0
@@ -9678,7 +10364,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-testing.google-cloud-appengineflexjava.target.maven-archiver.pom.properties">google-cloud-testing/google-cloud-appengineflexjava/target/maven-archiver/pom.properties</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#target.maven-archiver.pom.properties">target/maven-archiver/pom.properties</a>
                 </td>
                 <td>
                   0
@@ -9740,7 +10426,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  10
+                  13
                 </td>
                 <td>
                   0
@@ -9769,6 +10455,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.stub.AgentsStub.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/stub/AgentsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -9811,6 +10511,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#google-cloud-dialogflow.src.main.java.com.google.cloud.dialogflow.v2beta1.ContextsClient.java">google-cloud-dialogflow/src/main/java/com/google/cloud/dialogflow/v2beta1/ContextsClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
                 </td>
                 <td>
                   0

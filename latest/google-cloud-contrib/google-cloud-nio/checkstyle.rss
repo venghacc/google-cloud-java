@@ -27,7 +27,7 @@ under the License.
     <item>
       <title>File: 28,
              Errors: 0,
-             Warnings: 54,
+             Warnings: 55,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html</link>
@@ -242,20 +242,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.CloudStorageFileSystemProvider.java">com/google/cloud/storage/contrib/nio/CloudStorageFileSystemProvider.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.OptionMaxChannelReopens.java">com/google/cloud/storage/contrib/nio/OptionMaxChannelReopens.java</a>
                 </td>
                 <td>
@@ -270,13 +256,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.CloudStorageFileSystemProvider.java">com/google/cloud/storage/contrib/nio/CloudStorageFileSystemProvider.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.testing.FakeStorageRpc.java">com/google/cloud/storage/contrib/nio/testing/FakeStorageRpc.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  10
+                  11
                 </td>
                 <td>
                   0
@@ -299,6 +299,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.OptionCacheControl.java">com/google/cloud/storage/contrib/nio/OptionCacheControl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.UnixPath.java">com/google/cloud/storage/contrib/nio/UnixPath.java</a>
                 </td>
                 <td>
                   0
@@ -340,35 +354,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.UnixPath.java">com/google/cloud/storage/contrib/nio/UnixPath.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.CloudStorageFileAttributeView.java">com/google/cloud/storage/contrib/nio/CloudStorageFileAttributeView.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.CloudStorageOptions.java">com/google/cloud/storage/contrib/nio/CloudStorageOptions.java</a>
                 </td>
                 <td>
                   0
@@ -396,13 +382,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.testing.LocalStorageHelper.java">com/google/cloud/storage/contrib/nio/testing/LocalStorageHelper.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.CloudStorageOptions.java">com/google/cloud/storage/contrib/nio/CloudStorageOptions.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  6
+                  0
                 </td>
                 <td>
                   0
@@ -417,6 +403,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-contrib/google-cloud-nio/checkstyle.html#com.google.cloud.storage.contrib.nio.testing.LocalStorageHelper.java">com/google/cloud/storage/contrib/nio/testing/LocalStorageHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
                 </td>
                 <td>
                   0
