@@ -108,7 +108,7 @@ public class ITStorageTest {
   private static final byte[] COMPRESSED_CONTENT = BaseEncoding.base64()
       .decode("H4sIAAAAAAAAAPNIzcnJV3DPz0/PSVVwzskvTVEILskvSkxPVQQA/LySchsAAAA=");
   private static final Map<String, String> BUCKET_LABELS = ImmutableMap.of("label1", "value1");
-  private static final String SERVICE_ACCOUNT_EMAIL = "gcloud-devel@gs-project-accounts.iam.gserviceaccount.com";
+  private static final String SERVICE_ACCOUNT_EMAIL = "venkatesh.radhakrishnan@valeo.com";
 
   @BeforeClass
   public static void beforeClass() throws NoSuchAlgorithmException, InvalidKeySpecException {

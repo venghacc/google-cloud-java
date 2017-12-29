@@ -21,6 +21,7 @@
  */
 
 package com.google.cloud.examples.bigquery.snippets;
+//
 
 import com.google.api.client.util.Charsets;
 import com.google.api.gax.paging.Page;

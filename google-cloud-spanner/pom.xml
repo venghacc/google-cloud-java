@@ -14,7 +14,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-cloud-pom</artifactId>
-    <version>0.32.1-alpha-SNAPSHOT</version>
+    <version>0.32.0-alpha</version>
   </parent>
   <properties>
     <site.installationModule>google-cloud-spanner</site.installationModule>
@@ -29,7 +29,7 @@
           <excludedGroups>com.google.cloud.spanner.IntegrationTest</excludedGroups>
         </configuration>
       </plugin>
-      <plugin>
+     <!--  <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-failsafe-plugin</artifactId>
         <version>2.18.1</version>
@@ -48,7 +48,7 @@
             </goals>
           </execution>
         </executions>
-      </plugin>
+      </plugin> -->
     </plugins>
   </build>
   <dependencies>

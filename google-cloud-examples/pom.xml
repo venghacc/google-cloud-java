@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <artifactId>google-cloud-examples</artifactId>
-  <version>0.32.1-alpha-SNAPSHOT</version>
+  <version>0.32.0-alpha</version>
   <packaging>jar</packaging>
   <name>Google Cloud Examples</name>
   <url>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-examples</url>
@@ -12,7 +12,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-cloud-pom</artifactId>
-    <version>0.32.1-alpha-SNAPSHOT</version>
+    <version>0.32.0-alpha</version>
   </parent>
   <properties>
     <site.installationModule>google-cloud-examples</site.installationModule>
@@ -46,7 +46,7 @@
         <!-- make a script so we can run stuff directly by calling
              mvn package appassembler:assemble -DskipTests -Dmaven.javadoc.skip=true  -Dmaven.source.skip=true
              from the google-cloud-examples folder. The script is written to target/appassembler/bin/. -->
-      <plugin>
+      <!-- <plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>appassembler-maven-plugin</artifactId>
         <version>1.10</version>
@@ -100,8 +100,8 @@
             </program>
           </programs>
         </configuration>
-      </plugin>
-      <plugin>
+      </plugin> -->
+<!--       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-failsafe-plugin</artifactId>
         <version>2.19.1</version>
@@ -110,7 +110,7 @@
             <exclude>**/IT*Snippets.java</exclude>
           </excludes>
         </configuration>
-      </plugin>
+      </plugin> -->
     </plugins>
   </build>
   <profiles>
@@ -119,14 +119,14 @@
       <id>snippets</id>
       <build>
         <plugins>
-          <plugin>
+<!--           <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-failsafe-plugin</artifactId>
             <version>2.19.1</version>
             <configuration>
               <excludes combine.self="override"></excludes>
           </configuration>
-          </plugin>
+          </plugin> -->
         </plugins>
       </build>
     </profile>

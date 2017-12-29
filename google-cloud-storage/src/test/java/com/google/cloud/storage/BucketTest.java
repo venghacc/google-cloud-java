@@ -676,6 +676,7 @@ public class BucketTest {
         .setLabels(BUCKET_LABELS)
         .setRequesterPays(REQUESTER_PAYS)
         .build();
+    System.out.println("bucket.getSelfLink()===>"+bucket.getSelfLink());
     assertEquals("b", bucket.getName());
     assertEquals(ACLS, bucket.getAcl());
     assertEquals(ETAG, bucket.getEtag());
